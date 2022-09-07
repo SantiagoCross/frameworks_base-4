@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">تلقائي</string>
+    <string name="live_display_auto_summary">ضبط درجة حرارة لون الشاشة تلقائياً بعد غروب الشمس وشروق الشمس</string>
+    <string name="live_display_off">متوقف</string>
+    <string name="live_display_off_summary">تعطيل جميع التعديلات</string>
+    <string name="live_display_day">يوم</string>
+    <string name="live_display_day_summary">استخدام إعدادات اليوم فقط</string>
+    <string name="live_display_night">الليل</string>
+    <string name="live_display_night_summary">استخدام الإعدادات الليلية فقط</string>
+    <string name="live_display_outdoor">خارج المنزل (شمس مشرق)</string>
+    <string name="live_display_outdoor_summary">استخدام إعدادات الهواء الطلق فقط</string>
+    <string name="live_display_hint">يمكن للعرض المباشر أن يساعد في تقليل إجهاد العين ومساعدتك على النوم في الليل. انقر هنا لتجربته!</string>
+    <string name="accessibility_quick_settings_live_display_off">إيقاف العرض المباشر.</string>
+    <string name="accessibility_quick_settings_live_display_auto">عرض حي: الوضع التلقائي.</string>
+    <string name="accessibility_quick_settings_live_display_day">عرض حي: الوضع النهاري.</string>
+    <string name="accessibility_quick_settings_live_display_night">عرض حي: الوضع الليلي.</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">عرض حي: وضع الهواء الطلق.</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">تم إيقاف تشغيل العرض المباشر.</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">تم تغيير العرض المباشر إلى الوضع التلقائي.</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">تم تغيير العرض المباشر إلى الوضع اليومي.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">تم تغيير العرض الحي إلى الوضع الليلي.</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">تم تغيير العرض المباشر إلى وضع الهواء الطلق.</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">অ্যান্টি ফ্লিকার</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">অ্যামবিয়েন্ট ডিসপ্লে</string>
+    <string name="accessibility_quick_settings_ambient_display_off">অ্যাম্বিয়েন্ট ডিসপ্লে বন্ধ.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">অ্যাম্বিয়েন্ট ডিসপ্লে চালু.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">অ্যাম্বিয়েন্ট ডিসপ্লে বন্ধ করা হয়েছে.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">অ্যাম্বিয়েন্ট ডিসপ্লে চালু করা হয়েছে.</string>
+    <!-- AOD QS tile -->
+    <string name="quick_settings_aod_label">সবসময় চালু থাকা ডিস্প্লে (AOD)</string>
+    <string name="quick_settings_aod_off_powersave_label">এওডি বন্ধ\nব্যাটারি সেভার</string>
+    <!-- Caffeine QS tile -->
+    <string name="quick_settings_caffeine_label">ক্যাফেইন</string>
+    <string name="accessibility_quick_settings_caffeine_off">ক্যাফেইন বন্ধ।</string>
+    <string name="accessibility_quick_settings_caffeine_on">ক্যাফেইন চালু।</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">পড়ার মোড ব্যবহার করুন</string>
+    <string name="accessibility_quick_settings_reading_mode_on">রিডিং মোড চালু</string>
+    <string name="accessibility_quick_settings_reading_mode_off">পড়ার মোড বন্ধ।</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">পড়ার মোড চালু।</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">পড়ার মোড বন্ধ হয়েছে।</string>
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">স্টপ ডট দেখান</string>
+    <string name="screenrecord_stopdot_summary">সরানোর জন্য বেশীক্ষণ চেপে ধরুন</string>
+    <string name="screenrecord_lowquality_label">নিম্নতর মান</string>
+    <string name="screenrecord_lowquality_summary">ছোট আকারের ফাইলের জন্য</string>
+    <string name="screenrecord_longer_timeout_switch_label">বৃহত্তর আকারের ফাইলের সীমা</string>
+    <string name="screenrecord_longer_timeout_switch_summary">রেকর্ডের সাইজ ১৫ জিবি পর্যন্ত সীমাবদ্ধ রাখুন</string>
+    <string name="screenrecord_skip_time_label">টাইমার উহ্য রাখুন</string>
+    <string name="screenrecord_skip_time_summary">৩ সেকেন্ডের অপেক্ষা বাতিল করুন</string>
+</resources>

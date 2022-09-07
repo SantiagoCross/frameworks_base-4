@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">مكافحة الغضب</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">عرض المحيط</string>
+    <string name="accessibility_quick_settings_ambient_display_off">تم إيقاف العرض المحيط.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">تشغيل العرض المحيط.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">تم إيقاف تشغيل العرض المحيط.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">تم تشغيل العرض المحيط.</string>
+    <!-- AOD QS tile -->
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">إيقاف\nتوفير البطارية</string>
+    <!-- Caffeine QS tile -->
+    <string name="quick_settings_caffeine_label">Caffeine</string>
+    <string name="accessibility_quick_settings_caffeine_off">إيقاف الكافيين.</string>
+    <string name="accessibility_quick_settings_caffeine_on">تشغيل الكافيين.</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">وضع القراءة</string>
+    <string name="accessibility_quick_settings_reading_mode_on">وضع القراءة مفعل.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">وضع القراءة متوقف.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">تم تشغيل وضع القراءة.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">تم إيقاف وضع القراءة.</string>
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">إظهار نقطة التوقف</string>
+    <string name="screenrecord_stopdot_summary">الضغط المطول لتحريكه</string>
+    <string name="screenrecord_lowquality_label">جودة منخفضة</string>
+    <string name="screenrecord_lowquality_summary">لحجم الملف الأصغر</string>
+    <string name="screenrecord_longer_timeout_switch_label">حجم الملف أكبر</string>
+    <string name="screenrecord_longer_timeout_switch_summary">الحد من حجم التسجيل إلى 15 جيجابايت</string>
+    <string name="screenrecord_skip_time_label">تخطي المؤقت</string>
+    <string name="screenrecord_skip_time_summary">إزالة 3 ثانية انتظار</string>
+</resources>

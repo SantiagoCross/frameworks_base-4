@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">反闪光</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">主动显示</string>
+    <string name="accessibility_quick_settings_ambient_display_off">主动显示已关闭。</string>
+    <string name="accessibility_quick_settings_ambient_display_on">主动显示已开启</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">主动显示已关闭。</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">主动显示已开启</string>
+    <!-- AOD QS tile -->
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">关闭\n省电模式</string>
+    <!-- Caffeine QS tile -->
+    <string name="quick_settings_caffeine_label">Caffeine</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine 关闭。</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine 开启。</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">阅读模式</string>
+    <string name="accessibility_quick_settings_reading_mode_on">正在打开阅读模式。</string>
+    <string name="accessibility_quick_settings_reading_mode_off">读取模式关闭。</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">阅读模式已开启。</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">读取模式已关闭。</string>
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">显示停止按钮</string>
+    <string name="screenrecord_stopdot_summary">长按移动它</string>
+    <string name="screenrecord_lowquality_label">低画质</string>
+    <string name="screenrecord_lowquality_summary">压缩录屏文件</string>
+    <string name="screenrecord_longer_timeout_switch_label">文件大小限制</string>
+    <string name="screenrecord_longer_timeout_switch_summary">限制录屏文件大小为 15GB</string>
+    <string name="screenrecord_skip_time_label">跳过倒计时</string>
+    <string name="screenrecord_skip_time_summary">跳过3秒倒计时</string>
+</resources>

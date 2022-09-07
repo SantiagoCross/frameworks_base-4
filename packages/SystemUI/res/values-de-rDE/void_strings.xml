@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Anti-Flimmern</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Inaktivitätsdisplay</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Inaktivitätsdisplay aus.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Inaktivitätsdisplay an.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Inaktivitätsdisplay ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Inaktivitätsdisplay eingeschaltet.</string>
+    <!-- AOD QS tile -->
+    <string name="quick_settings_aod_label">Always-On-Display</string>
+    <string name="quick_settings_aod_off_powersave_label">Always-On-Display aus\nEnergiesparmodus</string>
+    <!-- Caffeine QS tile -->
+    <string name="quick_settings_caffeine_label">Koffein</string>
+    <string name="accessibility_quick_settings_caffeine_off">Koffein aus.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Koffein an.</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Lesemodus</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Lesemodus an.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Lesemodus aus.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Lesemodus aktiviert.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Lesemodus deaktiviert.</string>
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Zeige Stop-Punkt</string>
+    <string name="screenrecord_stopdot_summary">Gedrückt halten zum Verschieben</string>
+    <string name="screenrecord_lowquality_label">Niedrigere Qualität</string>
+    <string name="screenrecord_lowquality_summary">Für kleinere Dateigrößen</string>
+    <string name="screenrecord_longer_timeout_switch_label">Größere Dateigrößenbegrenzung</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Aufnahmegröße auf 15 GB begrenzen</string>
+    <string name="screenrecord_skip_time_label">Timer überspringen</string>
+    <string name="screenrecord_skip_time_summary">3-Sekunden Wartezeit deaktivieren</string>
+</resources>
